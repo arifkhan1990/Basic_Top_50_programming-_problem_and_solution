@@ -11,3 +11,4 @@ Basic Top 50 programming problem and solution for bangladeshi software company l
 8. Find index of 0 to replaced to get maximum length sequence of continuous ones
 9. Find maximum sequence of continuous 1’s formed by replacing at-most k zeroes by ones
 10. Find number of rotations in a circularly sorted array
+11. Matrix chain Multiplication using Dynamic Programming
