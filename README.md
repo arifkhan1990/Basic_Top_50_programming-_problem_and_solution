@@ -20,3 +20,4 @@ Basic Top 50 programming problem and solution for bangladeshi software company l
 1. How do you print duplicate characters from a string?
 2. How do you reverse a given string in place?
 3. How do you reverse a word in given string?
+4. Check if two strings are k-anagrams or not?
