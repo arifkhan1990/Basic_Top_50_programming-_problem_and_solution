@@ -21,3 +21,14 @@ Basic Top 50 programming problem and solution for bangladeshi software company l
 2. How do you reverse a given string in place?
 3. How do you reverse a word in given string?
 4. Check if two strings are k-anagrams or not?
+5. How do you find all the permutations of a string?
+6. How do you check if a string contains only digits?
+7. How do you print the first non-repeated character from a string? 
+8. How do you check if a given string is a palindrome?
+9. How do you find the length of the longest substring without repeating characters?
+
+--> Number Theory
+
+1. Check given number is prime or not
+2. Write a recursive C/C++ and java program to calculate factorial of a given positive number
+3. Sort the array using merge sort algorithm
